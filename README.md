@@ -18,7 +18,7 @@ To get latest version of VCS-MX (Synopsys VCS Compiler)
 module load vcs
 ```
 
-- The user is expected to get a docker enabled machine/VM with sudo access. (only if the user wishes to try tutorial in docker mode)
+- The user is expected to get a docker enabled machine/VM with sudo access. 
 It should be a machine with following minimum requirements.
 ```
 CPU:	4
