@@ -20,11 +20,12 @@ module load vcs
 
 - The user is expected to get a docker enabled machine/VM with sudo access. 
 It should be a machine with following minimum requirements.
-```
-CPU:	4
-Memory:	32-64GB
-Storage:	~200GB
-```
+
+Resource | Values
+---------|-------
+CPU |	4
+Memory |	32-64GB
+Storage |	~200GB
 
 ## ITS Installation
 - ITS software is not opensource at the moment (TBD).
