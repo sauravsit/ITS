@@ -1,6 +1,6 @@
 # Intelligent Test Selection (ITS)
 
-This tutorial provides the user a step-by-step explanation on how to use Intelligent Test Selection (ATLAS ITS) for RTL regression.  An open source lowRISC/ibex design and RISC-V DV testbench (https://github.com/lowRISC/ibex) has been chosen for this tutorial. 
+This tutorial provides the user a step-by-step explanation on how to use Intelligent Test Selection (ITS) for RTL regression.  An open source lowRISC/ibex design and RISC-V DV testbench (https://github.com/lowRISC/ibex) has been chosen for this tutorial. 
 
 ## Data Source 
 Opensource Design: lowRISC/ibex design and RISC-V DV testbench (https://github.com/lowRISC/ibex)
