@@ -104,4 +104,15 @@ c914ec5e6acdea49fe1697dcb5db3e42d2503ab9 |	7 |	1 |	100 |	81.57894737
 24cbc32249d557fa8566fe2e6d7d11bb5f440c42 | 9 |	2 |	100 |	76.31578947
 8e28ba0b9e1a1217ee56a6da82f1a72bc16ca8c6 |	33	| 1	| 100	| 13.15789474
 
+## Results Discussion
 
+Item Description | Value
+-----------------|-------
+Configs | 1
+Training | 58 commits are selected for bootstrap out of 72.
+Prediction | The rest of 14 commits are considered for predictions
+Mean  Recall | 97.44%
+Median  Recall | 100.0%
+Num  Tests | 38
+Predicted  Tests | mean >>> 19  & median >>> 10
+Reduction | mean >>> 48.76% and median 72.97%
